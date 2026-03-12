@@ -1,0 +1,2 @@
+use this commaand to run vitual env=.\.venv\Scripts\Activate.ps1
+run through=python main.py
